@@ -8,4 +8,6 @@ Motivation: This application addresses a need to make deposits, withdrawals and 
 Installation and Instructions: To download this project, save the project files in a new directory on your local machine. You may then start a new terminal in VS Code and type 'npx nodemon' 'npm install'  'npx nodemon index.js.  To run the program 'npm run dev'
 
 ##Image of Badbank App
-(badbank image.png)
+
+
+<img src="/badbank image.png" alt="Alt text" title="Badbank Image">
