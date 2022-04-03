@@ -10,7 +10,7 @@ Installation and Instructions: To download this project, save the project files 
 ##Image of Badbank App
 
 
-<img src="/badbank image.png" alt="Alt text" title="Badbank Image">
+<img src="/badbank1.png" alt="Alt text" title="Badbank Image">
 
 Features - The ability make deposits and withdrawals to check you balance
 
