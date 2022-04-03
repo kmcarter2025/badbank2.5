@@ -11,3 +11,9 @@ Installation and Instructions: To download this project, save the project files 
 
 
 <img src="/badbank image.png" alt="Alt text" title="Badbank Image">
+
+Features - The ability make deposits and withdrawals to check you balance
+
+Technology Used- I used MongoDB, Express.js, React.js, and Node.js, which are collectively known as the MERN Stack. Bootstrap's NavBar and Card components are also imported into the application.
+
+License-"MIT"
